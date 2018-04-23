@@ -10,6 +10,8 @@ import UIKit
 
 class SkillVC: UIViewController {
 
+    var user: User!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
